@@ -5,9 +5,9 @@ This is a simple data analysis project where I used Python, Pandas, and Matplotl
 
 
 ## 📂 Files Included ##
-ecommerce_analysis.ipynb – Jupyter Notebook with code and analysis
+_E-commerceProject.ipynb– Jupyter Notebook with code and analysis
 
-sample- superstore.csv –  Sample orders data
+superstore.csv –  Sample orders data
 
 
 ## 🎯 Objectives
